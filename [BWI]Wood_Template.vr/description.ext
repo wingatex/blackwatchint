@@ -27,3 +27,6 @@ class CfgFunctions
 	#include "VAS\cfgfunctions.hpp"
 
 };
+
+
+//edit changes
